@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏠 Lead Management CRM
 
 A full-stack mini CRM to manage sales leads.
@@ -186,3 +187,6 @@ The app opens at: **http://localhost:3000**
 **Port already in use:**
 - Backend: change `PORT=5001` in `.env`
 - Frontend: React will ask to use another port automatically
+=======
+# CRM---sankar-Group
+>>>>>>> 823becbbb87d10bb0cd786b8fcc5e0e2c2e1f5d3
